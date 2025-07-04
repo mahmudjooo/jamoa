@@ -1,10 +1,5 @@
-
 function Navbar() {
-  return (
-    <div>
-      Navbar
-    </div>
-  )
+  return <div>Navbar t</div>;
 }
 
-export default Navbar
+export default Navbar;
